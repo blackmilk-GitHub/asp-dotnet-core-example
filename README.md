@@ -377,12 +377,9 @@ https://user-images.githubusercontent.com/99466835/184102385-d8bf404a-685b-4af4-
       </a>
 </div>
 
-<div align="left">
-      <a
+
 <iframe width="640" height="480"
 src="https://www.youtube.com/embed/kXcLpd-TqRE?&loop=1&autoplay=1&playlist=kXcLpd-TqRE&mute=1" 
 allowfullscreen>
 </iframe>
-      </a>
-</div>
-<div align="left">
+
